@@ -19,7 +19,7 @@
     font-size: 12px;
 }
 
-#items-container {
+.items-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 10px;
