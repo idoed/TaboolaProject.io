@@ -19,7 +19,9 @@
 #small-head-line{
     font-size: 12px;
 }
-
+#big-head-line{
+    font-weight: bold;
+}
 .items-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
