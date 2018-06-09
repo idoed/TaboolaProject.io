@@ -16,7 +16,7 @@
     box-sizing: border-box;
 }
 
-#small-head-line{
+.small-head-line{
     font-size: 12px
 }
 .items-container {
