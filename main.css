@@ -16,6 +16,9 @@
     box-sizing: border-box;
 }
 
+.small-head-line{
+    font-size: 12px
+}
 .items-container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
