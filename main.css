@@ -38,7 +38,7 @@
 }
 .image-wrapper {
     overflow: hidden;
-    height: 120px;
+    min-height: 120px;
 }
 .image-wrapper img, .image-wrapper video {
     width: 100%;
