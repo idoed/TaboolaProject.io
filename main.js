@@ -1,6 +1,6 @@
 function play(){
   this.play()
 }
-funciton pause(){
+function pause(){
   this.pause()
 }
