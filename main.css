@@ -44,6 +44,7 @@
     width: 100%;
     min-height: 120px;
     transition: all ease 0.4s;
+    object-fit:cover;
 }
 .image-wrapper video{
     object-fit:cover;
