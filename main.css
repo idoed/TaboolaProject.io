@@ -46,7 +46,7 @@
     transition: all ease 0.4s;
 }
 .image-wrapper video{
-    object-fit:cover
+    object-fit:cover;
 }
 .text-container {
     font-size: 15px;
