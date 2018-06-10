@@ -1,9 +1,9 @@
-var $icemovie= $('.icemovie');
+var icemovie= $('.icemovie');
 
-$icemovie.on('mouseenter',function() {
-$icemovie.get(0).play();
+icemovie.on('mouseenter',function() {
+icemovie.get(0).play();
 });
 
-$icemovie.on('mouseout',function() {
-$icemovie.get(0).pause();
+icemovie.on('mouseout',function() {
+icemovie.get(0).pause();
 });
