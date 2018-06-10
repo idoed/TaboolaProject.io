@@ -67,7 +67,7 @@
     color: black;
 }
 
-@media screen and (max-width: 450px) {
+@media only screen and (max-device-width: 410px) {
     .items-container {
         grid-template-columns: 1fr;
     }
