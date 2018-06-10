@@ -38,7 +38,7 @@
 }
 .image-wrapper {
     overflow: hidden;
-    height: 120px;
+    height: 100%;
 }
 .image-wrapper img, .image-wrapper video {
     width: 100%;
@@ -71,7 +71,6 @@
 @media only screen and (min-device-width: 20px)  and (max-device-width: 991px) {
     .items-container {
         grid-template-columns: 1fr;
-        max-width: inherit;
-       m ax-height: inherit;
+     
     }
 }
