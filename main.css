@@ -45,6 +45,9 @@
     min-height: 120px;
     transition: all ease 0.4s;
 }
+image-wrapper video{
+    cover:fit-object;
+}
 .text-container {
     font-size: 15px;
 }
