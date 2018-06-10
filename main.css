@@ -45,8 +45,8 @@
     min-height: 120px;
     transition: all ease 0.4s;
 }
-image-wrapper video{
-    cover:fit-object;
+.image-wrapper video{
+ fit-object:cover;   
 }
 .text-container {
     font-size: 15px;
@@ -67,7 +67,7 @@ image-wrapper video{
     color: black;
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 450px) {
     .items-container {
         grid-template-columns: 1fr;
     }
