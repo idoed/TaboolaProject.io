@@ -37,7 +37,7 @@
     overflow: hidden;
     height: 120px;
 }
-.image-wrapper img {
+.image-wrapper img, .image-wrapper video {
     width: 100%;
     min-height: 120px;
     transition: all ease 0.4s;
