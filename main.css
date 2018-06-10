@@ -71,5 +71,6 @@
 @media only screen and (max-device-width: 380px) {
     .items-container {
         grid-template-columns: 1fr;
+        height: 200px;
     }
 }
