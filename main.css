@@ -24,7 +24,7 @@
 }
 .items-container {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: auto auto auto;
     grid-gap: 10px;
     direction: ltr;
     margin-top: 4px;
@@ -71,7 +71,7 @@
 
 @media only screen and (max-width: 500px) {
     .items-container {
-        grid-template-columns: 1fr;     
+        grid-template-columns: auto;     
     }
        .image-wrapper img, .image-wrapper video{
         min-height:200px;
